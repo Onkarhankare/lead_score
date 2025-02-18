@@ -35,11 +35,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lead-scoring-analysis.git
+   git clone https://github.com/Onkarhankare/lead_score.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd lead-scoring-analysis
+   cd lead_score
    ```
 3. Run the Jupyter Notebook or Python script:
    ```bash
